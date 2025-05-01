@@ -1,3 +1,4 @@
+#Dosimetry Strategies for Non-Autonomous UV-C Robots
 ---
 ## 📊 Graphical Abstract
 
@@ -6,7 +7,7 @@
 </p>
 
 ---
-# Resources and extra documentation for the manuscript "Dosimetry Strategies for Non-Autonomous UV-C Robots" published in IEEE Latin America Transactions. This repository contains all files required to reproduce the results presented in the article, including editable figures and experimental data.
+## Resources and extra documentation for the manuscript "Dosimetry Strategies for Non-Autonomous UV-C Robots" published in IEEE Latin America Transactions. This repository contains all files required to reproduce the results presented in the article, including editable figures and experimental data.
 **Authors:**  
 - Maikel Roberto Siqueira Gambeta-Leite ([ORCID: 0009-0007-6842-4706](https://orcid.org/0009-0007-6842-4706))  
 - Rodrigo Araujo Real ([ORCID: 0009-0001-8284-4949](https://orcid.org/0009-0001-8284-4949))  
