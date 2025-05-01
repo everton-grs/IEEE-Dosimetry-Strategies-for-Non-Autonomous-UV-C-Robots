@@ -33,7 +33,7 @@ All figures are located in the `ManuscriptImages/` folder.
        - `Book1`: worksheet with raw data
        - `Graph`: corresponding plotted figure
 
-- **Figures 1, 2, 8 and 9 :** High-resolution photographs (to be added in the `ManuscriptImages/` folder).
+- **Figures 1, 2, 8 and 9 :** High-resolution photographs with non-editable data.
   - Format: `.png`
   - Use: Visual content included in the manuscript
 
