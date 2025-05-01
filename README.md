@@ -9,9 +9,19 @@
 
 This repository contains all files required to reproduce the results presented in the article *“Dosimetry Strategies for Non-Autonomous UV-C Robots”*, including editable figures and experimental data.
 
+---
+## 📊 Graphical Abstract
+
+<p align="center">
+  <img src="ManuscriptImages/graphical-abstract.png" alt="Graphical Abstract" width="600"/>
+</p>
+
+---
 ## Repository Contents
 
 ### 1. Figures
+
+All figures are located in the `ManuscriptImages/` folder.
 
 - **Figures 3 to 7:** Editable graphs created using **OriginLab** software.
   - Files: `figure3-and-4.opju`, `figure5.opju`, `figure6.opju`, `figure7.opju`
@@ -23,14 +33,13 @@ This repository contains all files required to reproduce the results presented i
        - `Book1`: worksheet with raw data
        - `Graph`: corresponding plotted figure
 
-- **Figures 1, 2, and 8:** High-resolution photographs (to be added in the `ManuscriptImages/` folder).
-  - Expected format: `.png`
-  - Folder: `ManuscriptImages/`
+- **Figures 1, 2, 8 and 9 :** High-resolution photographs (to be added in the `ManuscriptImages/` folder).
+  - Format: `.png`
   - Use: Visual content included in the manuscript
 
 ### 2. Experimental Data
 
-- **Figure 9 and Table I:** Correspond to manual counting of **Colony Forming Units (CFUs)** in Petri dishes.
+- **Table I:** Correspond to manual counting of **Colony Forming Units (CFUs)** in Petri dishes.
   - File: `tableI-data.txt`
   - Content: Raw colony count data for each experimental condition
 
