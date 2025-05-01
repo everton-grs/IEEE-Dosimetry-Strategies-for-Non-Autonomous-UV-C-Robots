@@ -1,10 +1,4 @@
 # Dosimetry Strategies for Non-Autonomous UV-C Robots
-
-**Authors:**  
-- Maikel Roberto Siqueira Gambeta-Leite ([ORCID: 0009-0007-6842-4706](https://orcid.org/0009-0007-6842-4706))  
-- Rodrigo Araujo Real ([ORCID: 0009-0001-8284-4949](https://orcid.org/0009-0001-8284-4949))  
-- Chiara das Dores do Nascimento ([ORCID: 0000-0001-6028-9852](https://orcid.org/0000-0001-6028-9852))  
-- Everton Granemann Souza ([ORCID: 0000-0001-9884-6626](https://orcid.org/0000-0001-9884-6626))
 ---
 📊 Graphical Abstract
 
@@ -14,7 +8,6 @@
 
 ---
 Supplementary materials for the manuscript *“Dosimetry Strategies for Non-Autonomous UV-C Robots”*, published in IEEE Latin America Transactions. This repository contains all the files necessary to reproduce the results presented in the article, including editable figures and experimental data.
-
 
 ## Repository Contents
 
